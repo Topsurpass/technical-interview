@@ -5,7 +5,7 @@ export default function QuestionSkeleton() {
 				<div
 					key={i}
 					aria-hidden="true"
-					className="flex gap-4 rounded-lg border border-gray-200 bg-white px-5 py-4 shadow-sm animate-pulse"
+					className="flex gap-4 rounded-xl border border-slate-100 bg-white px-5 py-4 shadow-sm animate-pulse"
 				>
 					<div className="mt-0.5 h-6 w-6 shrink-0 rounded-full bg-gray-200" />
 					<div className="flex-1 space-y-2 py-0.5">
